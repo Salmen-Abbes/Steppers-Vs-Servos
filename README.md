@@ -46,4 +46,23 @@ And this is a table illustrating some specs of Nema size Stepper Motors:
 
 ![image](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/26e3b686-d9cf-4c4c-baa5-8b8cfe344898)
 
+### Usage
 
+Thanks to their ability of holding a state ( we can't rotate a stepper motor shaft using our hands while we put it ON, unless we apply a force to the shaft more than its torque) Stepper motors have become integral components in a wide array of applications, demonstrating their versatility and precision in diverse industries, such as CNC machining, 3D printing, Robotic arms, Elevators,...
+
+3D Printing:
+
+![3d printing](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/477195bd-cbda-4b12-96d3-4c60c8123d0e)
+
+CNC Machining:
+
+![cnc](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/6be2bedb-cb8b-483a-a0a3-6fe81f9a24e0)
+
+Robotic arms:
+
+![a_arm_operation](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/49ef69d5-f2a4-411e-a9cd-a84d3b90e56f)
+
+
+### Conclusion
+
+In conclusion, stepper motors are like the choreographers of precise movement in various technologies. Their unique ability to move in tiny, controlled steps makes them the go-to performers in 3D printers, CNC machines, and even elevators. Think of them as the silent, reliable dancers behind the scenes, ensuring that everything moves exactly as planned. With their simplicity and precision, stepper motors continue to take center stage in the world of controlled motion, making our gadgets and machines move with accuracy and finesse.
