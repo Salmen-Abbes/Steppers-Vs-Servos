@@ -1,5 +1,5 @@
-# Servos vs. Steppers
-Welcome to the Servos vs. Steppers Repository. Delve into the world of motor dynamics, as we navigate through the nuances of servo and stepper motors. Gain insights on selection, applications, and unleash the power of precision in robotics and electronics.
+# Steppers vs. Servos
+Welcome to the Steppers vs. Servos Repository. Delve into the world of motor dynamics, as we navigate through the nuances of servo and stepper motors. Gain insights on selection, applications, and unleash the power of precision in robotics and electronics.
 
 ## Stepper Motors
 
