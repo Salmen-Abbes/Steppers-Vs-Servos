@@ -62,9 +62,9 @@ Robotic arms:
 
 ![a_arm_operation](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/49ef69d5-f2a4-411e-a9cd-a84d3b90e56f)
 
-## Servo Motors
-
 
 ### Conclusion
 
 In conclusion, stepper motors are like the choreographers of precise movement in various technologies. Their unique ability to move in tiny, controlled steps makes them the go-to performers in 3D printers, CNC machines, and even elevators. Think of them as the silent, reliable dancers behind the scenes, ensuring that everything moves exactly as planned. With their simplicity and precision, stepper motors continue to take center stage in the world of controlled motion, making our gadgets and machines move with accuracy and finesse.
+
+## Servo Motors
