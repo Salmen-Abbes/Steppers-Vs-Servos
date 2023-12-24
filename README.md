@@ -27,6 +27,15 @@ Now, let's dive into the stepper motor infra-structure, unlike traditional motor
 
 To calculate the step angle of a stepper motor, we can apply the following formula : Step angle = 360 / Steps per Revolution, example a motor has 200 Steps/revolution ( it means it achieves 200 steps in a complete tour of 360°) , then the step angle equals to 360 / 200 which is almost 1.8° ( in most of stepper motors ).
 
+### Control
+
+Controlling a stepper motor can't be done directly through a Dev board as it requires a specific module called a stepper motor driver. Stepper motor drivers provide the same main functionality ( which is controlling a stepper motor ) but are quite different in usage , such as current acceptance, Dev card compatibility, pinout, number of steppers connected...
+
+So it is up to you to choose the right driver for the usage you want ( please note that the examples provided are only the most used ones, you can find another drivers that can suit you better ) :
+
+![image](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/30a4d829-4cd0-493e-9029-ca3baf3fdc5c)
+
+
 ### Examples of Stepper Motors
 
 There is a variety of Stepper Motors types, but the most known one is the 'Nema' size setppers. Nema stepper Motors are generally affordable and provide a quite respectable performance.
