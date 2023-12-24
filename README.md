@@ -62,6 +62,8 @@ Robotic arms:
 
 ![a_arm_operation](https://github.com/Salmen-Abbes/Steppers-Vs-Servos/assets/114873030/49ef69d5-f2a4-411e-a9cd-a84d3b90e56f)
 
+## Servo Motors
+
 
 ### Conclusion
 
